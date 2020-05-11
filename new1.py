@@ -66,7 +66,7 @@ img_width, img_height = 256, 256
 train_data_dir = '/home/ssriram2/5050/train'
 validation_data_dir = '/home/ssriram2/5050/test'
 
-epochs = 25
+epochs = 50
 batch_size = 100
 weight_decay = 0.004  # weight decay coefficient
 CROP_LENGTH   = 227
