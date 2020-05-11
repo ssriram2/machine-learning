@@ -63,8 +63,8 @@ def crop_generator(batches, crop_length):
 
 img_width, img_height = 256, 256
  
-train_data_dir = 'C:/Users/Kedir Hamid Ahmed/Desktop/veridium/photo/train'
-validation_data_dir = 'C:/Users/Kedir Hamid Ahmed/Desktop/veridium/photo/test'
+train_data_dir = '/home/ssriram2/5050/train'
+validation_data_dir = '/home/ssriram2/5050/test'
 
 epochs = 25
 batch_size = 100
